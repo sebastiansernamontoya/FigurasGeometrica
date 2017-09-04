@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FIGURAS GEOMÉTRICAS</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="circulo">Círculo</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="cubo">Cubo</string>
+    <string name="figura">Escoja una figura</string>
+    <string name="calcular">¿Qué deseas calcularle?</string>
+    <string name="perimetro">Perímetro</string>
+    <string name="area">Área</string>
+    <string name="volumen">Volumen</string>
+    <string name="resultado">Resultado:</string>
+    <string name="eCampo1">Ancho          </string>
+    <string name="eCampo2">Largo          </string>
+    <string name="eCampo3">N/A            </string>
+    <string name="ingresar">Ingresar:</string>
+    <string name="bcalcular">CALCULAR</string>
+    <string name="ejemplo1">1.9</string>
+    <string name="resultados" />
+    <string name="eCampo4">N/A</string>
+</resources>
